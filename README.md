@@ -1,8 +1,23 @@
 # Welcome
-Goal: make this vue app as close to this mock https://www.figma.com/file/zeaWiePnc3OCe34I4oZbzN/Service-Card-List?node-id=0%3A1 as possible
+
+Goal: make this vue app as close to this mock https://www.figma.com/file/zeaWiePnc3OCe34I4oZbzN/Service-Card-List?node-id=0%3A1 as possible.
 
 The styling should be responsive and look good different browser window sizes.
-You may use the component doc to help style your components: https://kongponents.netlify.app/components/card.html
+
+You may use the component docs to help style your components: https://kongponents.netlify.app/components/card.html
+
+## Functional Requirements
+
+- Ability to view and search services
+- Working pagination
+- Responsive layout
+
+### Additional Considerations
+
+- TypeScript
+- Tests
+- Routing and views
+- Other items covered in Panel 1
 
 ## Get started by running
 
