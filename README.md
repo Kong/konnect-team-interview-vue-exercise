@@ -1,3 +1,8 @@
+**This repository is now deprecated. Please utilize the new take-home exercise located here: https://github.com/Kong/konnect-team-interview-frontend-exercise**
+
+
+---
+
 # Welcome
 
 Goal: make this vue app as close to this mock https://www.figma.com/file/zeaWiePnc3OCe34I4oZbzN/Service-Card-List?node-id=0%3A1 as possible.
